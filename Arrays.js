@@ -4,12 +4,12 @@ console.log (carros);
 var primeiroCarro = carros[0];
 var segundoCarro = carros[1];
 var terceiroCarro = carros[2];
-var quarto Varro = carro[4];
+var quarto Varro = carro[3];
 console.log("primeira posição: " + primeiroCarro);
 console.log("segunda posição: " + segundoCarro);
 console.log("terceira posição: " + terceiroCarro);
 console.log("quarta posição: "=  + quarto Carro);
-carros[2] = "argo";
+carros[2] = "logan";
 console.log(carros[2]);
 
 console.log(terceiroCarro);
