@@ -19,7 +19,7 @@ console.log("tamanho do Array: " + carros.length);
 
 console.log("ultimo elento do arry:" + carros[carros.length - 1]);
 
-carros[3] = "sandero";
+carros[3] = "hilux";
 console.log("ultimo elento do arry:" + carros[carros.length - 1]);
 
 carros[carros.length] = "honda fit";
