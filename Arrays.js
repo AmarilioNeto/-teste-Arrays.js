@@ -4,7 +4,7 @@ console.log (carros);
 var primeiroCarro = carros[0];
 var segundoCarro = carros[1];
 var terceiroCarro = carros[2];
-var quarto Varro = carro[3];
+var quartoCarro = carro[3 ]
 console.log("primeira posição: " + primeiroCarro);
 console.log("segunda posição: " + segundoCarro);
 console.log("terceira posição: " + terceiroCarro);
